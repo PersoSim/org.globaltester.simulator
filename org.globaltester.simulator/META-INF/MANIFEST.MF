@@ -13,3 +13,4 @@ Require-Bundle: org.globaltester.service,
  org.eclipse.osgi,
  org.globaltester.logging,
  org.globaltester.base
+Automatic-Module-Name: org.globaltester.simulator
