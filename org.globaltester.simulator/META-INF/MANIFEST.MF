@@ -4,7 +4,7 @@ Bundle-Name: GT Simulator
 Bundle-SymbolicName: org.globaltester.simulator
 Bundle-Version: 3.9.0.qualifier
 Bundle-Vendor: secunet Security Networks AG
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: org.globaltester.simulator,
  org.globaltester.simulator.device,
  org.globaltester.simulator.event,
