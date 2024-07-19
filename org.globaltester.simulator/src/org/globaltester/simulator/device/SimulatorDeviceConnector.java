@@ -9,8 +9,6 @@ public interface SimulatorDeviceConnector {
 
 	/**
 	 * Stops the SimulatorDeviceConnector thread.
-	 * 
-	 * @throws CLTOneException if there was an error during handling of the CTL One
 	 */
 	void stop();
 
